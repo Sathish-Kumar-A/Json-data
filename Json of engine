@@ -1,0 +1,50 @@
+TechnicalSpecification={
+    "Dimensions":{
+        "overallLength":"3500 mm",
+        "overall width":"1600 mm",
+        "overall height":"1490 mm",
+        "wheelbase":"2360 mm",
+        "Track width":{
+            "front":"1405 mm",
+            "Rear":"1400 mm"
+        },
+        "Minimum turning radius":"4.5 m",
+        "Minimum ground distance":"170 mm"
+    },
+    "capacities":{
+        "seating capacity":"5 persons",
+        "fuel tank capacity":"35 litres",
+    },
+    "Engine":{
+        "Type":"KB-Series",
+        "number of cylinders":3,
+        "number of valves":12,
+        "capacity":"998 cc/cm3",
+        "Bore x stroke":"73.0 * 79.5 mm",
+        "compresssion ratio":"10:1",
+        "Maximum power":"67/6.200 PS/rpm",
+        "maximum torque":"90/3.500 Nm/rpm",
+        "fuel distribution":"Multipoint injection"
+    },
+    "Transmission":{
+        "Type":"5-speed MT"
+    },
+    "Chassis":{
+        "steering":"Rack,pinion,power assited",
+        "Brakes":{
+            "Front":"ventilated discs",
+            "rear":"Drums",
+        },
+        "suspension":{
+            "Front":"Macpherson strut & coil spring",
+            "rear":"isolated trailing link & coil spring",
+        },
+        "shock absorbers":"Gas filled",
+        "Tyre(tubeless":"155/BOR 13",
+    },
+    "weights":{
+        "Kerb weight(min,with full options":"860-880 kg",
+        "Gross vehicle weight":"1320 kg"
+    }
+
+}
